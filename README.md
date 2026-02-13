@@ -64,4 +64,5 @@ Frontend: http://localhost:5173
 
 ## Author
 
-Soni G
+Pavan Sathvik Sai Dondapati
+
